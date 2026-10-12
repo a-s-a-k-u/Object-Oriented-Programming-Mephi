@@ -1,0 +1,5 @@
+Menu:
+1 - Write word/meaning/emphasis
+2 - Composit all in line
+3 - Seperete line
+4 - Exit
